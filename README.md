@@ -3,7 +3,7 @@ Card Outer GLow Effect - Full code HTML and Css
 
 > Preview:
 
-[Image](/Card-Outer-GLow-Effect/img/0-preview-Glow-card.png)
+[Image](/Card-Outer-GLow-Effect/img/0-preview-Glow-card.jpg)
 
 
 > Fixed Problem:
